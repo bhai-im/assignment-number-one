@@ -1,0 +1,108 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner-one {
+    display: flex;
+    justify-content: center;
+    border: 2px solid white;
+    height: 60vh;
+    align-items: center;
+}
+
+.banner-img-one {
+    width: 400px;
+}
+
+.title-one {
+    font-size: 50px;
+}
+
+.description-one {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: palevioletred;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.banner-two {
+    display: flex;
+    justify-content: center;
+    border: 2px solid white;
+}
+
+.flower-container {
+    display: flex;
+    justify-content: center;
+    border: 2px solid white;
+    height: 60vh;
+    align-items: center;
+
+}
+
+.box {
+    width: 364px;
+    height: 538px;
+    border: 1px solid blanchedalmond;
+    text-align: center;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.icon-one {
+    width: 310px;
+    height: 428px;
+    padding-top: 35px;
+    padding-bottom: 15px;
+}
+
+.icon-two {
+    width: 370px;
+    height: 371px;
+    padding-top: 75px;
+    padding-bottom: 15px;
+}
+
+.icon-three {
+    width: 314px;
+    height: 471px;
+}
+
+.instagram-img {
+    display: flex;
+    justify-content: center;
+    border: 2px solid white;
+    height: 60vh;
+    align-items: center;
+}
+
+.sub-one {
+    display: flex;
+    justify-content: center;
+    border: 2px solid white;
+    height: 60vh;
+    align-items: center;
+    background-image: url("./Rectangle\ 9.png");
+    background-repeat: repeat-x;
+}
+
+.footer-one {
+    display: flex;
+    justify-content: center;
+    border: 2px solid white;
+    height: 20vh;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+.bonus-img {
+    width: 450px;
+}
